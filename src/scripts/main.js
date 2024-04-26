@@ -1,6 +1,6 @@
 AOS.init();
 
-const dataDoEvento = new Date("Aug 2, 2024 09:00:00");//aponta para data no futuro
+const dataDoEvento = new Date("may 2, 2024 09:00:00");//aponta para data no futuro
 const timeStampDoEvento = dataDoEvento.getTime();
 
 // console.log(timeStampDoEvento);

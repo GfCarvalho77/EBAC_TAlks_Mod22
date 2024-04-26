@@ -7,6 +7,12 @@
     display: flex;
     justify-content: space-between;
 
+    img {
+        display: block;
+        text-align: center;
+        width: 640px;
+    }
+
     &__infos {
         display: flex;
         gap: 40px;
