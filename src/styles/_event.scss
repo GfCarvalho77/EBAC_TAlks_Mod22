@@ -47,6 +47,13 @@
         &__description {
             //font-size: 16px;
             line-height: 22px;
+            
+
+            &__invite {
+                background-color: black;
+                color: #fff;
+                margin-top: 15px;
+            }
         }
     }
 
